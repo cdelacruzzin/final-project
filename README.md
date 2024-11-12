@@ -82,7 +82,7 @@ Happy Shopping!
 
 [Carlos de la Cruz](https://github.com/cdelacruzzin)
 
-[Fabian Wagner](https://github.com/PythonFabi)
+[Fabian Wagner](https://github.com/Fabianmelone)
 
 [Chris Dang](https://github.com/Koro999)
 
